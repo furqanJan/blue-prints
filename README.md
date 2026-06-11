@@ -1,4 +1,4 @@
-﻿# Computer Vision Blueprint: Wall Detection
+# Computer Vision Blueprint: Wall Detection
 
 ## Description
 
